@@ -30,7 +30,7 @@ from telegram.constants import ParseMode
 # Import Authorize.Net handlers will be registered separately
 
 # Bot token
-TOKEN = "8675224758:AAHEAqh0CL7396FUkj2pyotihoizh-h71xc"
+TOKEN = "86752AHEAqh0CL7396FUkj2pyohoizh-h71xc"
 
 # List of accounts for load balancing
 ACCOUNTS = [
